@@ -253,6 +253,10 @@ p.b {
     color: #222931;
     z-index: 2;
 }
+#ic1:hover {
+    background: #222931;
+    color: white;
+}
 
 #ic2 {
     grid-row: 1/1;
@@ -285,6 +289,10 @@ p.b {
     background-color: #ffe718;
     color: #222931;
     z-index: 2; 
+}
+#ic3:hover {
+    background: #222931;
+    color: white;
 }
 
 .deals, .diensten, .contact {
